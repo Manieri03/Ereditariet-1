@@ -17,7 +17,7 @@ namespace LibreriaPersona
             this.cognome = cognome;
             this.dataDiNascita = dataDiNascita;
             this.altezza = altezza;
-            this.stipendio = stipendio;
+            this.stipendio = stipendio ;
         }
 
     }
